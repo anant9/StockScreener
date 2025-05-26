@@ -1,0 +1,6 @@
+streamlit
+pandas
+openai
+redis
+mysql-connector-python
+...
